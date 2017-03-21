@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.utaustin.org</groupId>
+  <artifactId>SWAF</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>CSSF Ensemble</name>
+  <description>This project ensembles slot fillers from multiple systems</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>tw.edu.ntu.csie</groupId>
+  		<artifactId>libsvm</artifactId>
+  		<version>3.17</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>nz.ac.waikato.cms.weka</groupId>
+  		<artifactId>weka-stable</artifactId>
+  		<version>3.6.13</version>
+  	</dependency>
+  </dependencies>
+</project>
