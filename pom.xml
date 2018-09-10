@@ -3,7 +3,7 @@
   <groupId>com.utaustin.org</groupId>
   <artifactId>SWAF</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>CSSF Ensemble</name>
+  <name>SF Ensemble</name>
   <description>This project ensembles slot fillers from multiple systems</description>
   <dependencies>
   	<dependency>
